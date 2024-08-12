@@ -4,7 +4,7 @@
 
 ### Структура курса
 * **Sprint #0 (1-2 неделя): Введение в ООП**
-  * Task #0: Развертывание рабочего пространства
+  * Task #0: Развертывание рабочего пространства [Видео](https://drive.google.com/file/d/1qY-xqMhGSzWwQnX7VYNf_Oz0z9WXh2AQ/view?usp=sharing)   
   * Task #1: Основные понятия и концепции ООП
   * Task #2: Обзор базовых принципов и паттернов
   * Task #3: Обзор индивидуальных проектов (Трек 1) [Ссылка на варианты проектов](https://docs.google.com/document/d/1qnC6867FBLJ5d4t6EkXYSGX7Hcxyd3-5qpl35SCn0AQ/edit?usp=sharing)
