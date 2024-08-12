@@ -7,8 +7,8 @@
   * Task #0: Развертывания рабочего пространство
   * Task #1: Основные понятия и концепции ООП
   * Task #2: Обзор базовых принципов и паттернов
-  * Task #3: Обзор индивидуальных проектов (Трек 1) [Ссылка]https://docs.google.com/document/d/1qnC6867FBLJ5d4t6EkXYSGX7Hcxyd3-5qpl35SCn0AQ/edit?usp=sharing
-* **Sprint #1 (3-4 неделя): Классы и объекты в C#. Инкапсуляция**
+  * Task #3: Обзор индивидуальных проектов (Трек 1) [Ссылка на варианты проектов](https://docs.google.com/document/d/1qnC6867FBLJ5d4t6EkXYSGX7Hcxyd3-5qpl35SCn0AQ/edit?usp=sharing)
+  * **Sprint #1 (3-4 неделя): Классы и объекты в C#. Инкапсуляция**
   * Task #0: 
   * Task #1: 
   * Task #2: 
@@ -35,6 +35,8 @@
   * Task #3: 
 * **Sprint #6 (13-14 неделя): Работа над проектом приложения (Трек 2)**
 * **Sprint #7 (15-17 неделя): Работа над проектом приложения. Защита проекта (Трек 2)**
+
+## Схема курса
 
 ![image](https://github.com/user-attachments/assets/4017c002-8ca3-4191-90d7-2eadad6e6e21)
 
