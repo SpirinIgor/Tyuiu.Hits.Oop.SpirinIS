@@ -38,7 +38,8 @@
 
 ## Схема курса
 
-![image](https://github.com/user-attachments/assets/4017c002-8ca3-4191-90d7-2eadad6e6e21)
+![image](https://github.com/user-attachments/assets/f15d0387-0937-4618-bc76-0311845bdb40)
+
 
 
 
