@@ -4,10 +4,10 @@
 
 ### Структура курса
 * **Sprint #0 (1-2 неделя): Введение в ООП**
-  * Task #0: Развертывание рабочего пространства [Видео](https://drive.google.com/file/d/1qY-xqMhGSzWwQnX7VYNf_Oz0z9WXh2AQ/view?usp=sharing)   
-  * Task #1: Основные понятия и концепции ООП
-  * Task #2: Обзор базовых принципов и паттернов
-  * Task #3: Обзор индивидуальных проектов (Трек 1) [Ссылка на варианты проектов](https://docs.google.com/document/d/1qnC6867FBLJ5d4t6EkXYSGX7Hcxyd3-5qpl35SCn0AQ/edit?usp=sharing)
+  * Task #0: Развертывание рабочего пространства [Видео](https://drive.google.com/file/d/1bmRf85UCMqFtBFmFwPO5en4IykpcnnGC/view?usp=sharing)   
+  * Task #1: Основные понятия и концепции ООП [Видео](https://drive.google.com/file/d/1bmRf85UCMqFtBFmFwPO5en4IykpcnnGC/view?usp=sharing)   
+  * Task #2: Обзор базовых принципов и паттернов [Видео](https://drive.google.com/file/d/1bmRf85UCMqFtBFmFwPO5en4IykpcnnGC/view?usp=sharing)   
+  * Task #3: Обзор индивидуальных проектов (Трек 1) [Видео](https://drive.google.com/file/d/1bWyVDRZ7ZisdUzMavp0kACz5E1QLCy4o/view?usp=sharing)
 * **Sprint #1 (3-4 неделя): Классы и объекты в C#. Инкапсуляция**
   * Task #0: Структура и объявление класса
   * Task #1: Структура и объявление класса, через: свойства, геттеры и сеттеры
@@ -17,7 +17,7 @@
   * Task #0: Простое наследование
   * Task #1: Сложное наследование
   * Task #2: Множественное наследование
-  * Task #3: Работа над индивидуальным проектом (Трек 1)
+  * Task #3:  
 * **Sprint #3 (7-8 неделя): Полиморфизм и Generic классы**
   * Task #0: Понятие полиморфизма
   * Task #1: Понятие перекрытия и перегрузка методов
