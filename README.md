@@ -2,6 +2,8 @@
 ## Описание:
 Курс объектно-ориентированное программирование на языке C# (Трек 1) разработ для студентов 2 курса всех направлений Тюменского индустриального университета (Высшей школы цифровых технологий). Курс расчитан на 17 недель с защитой итогового проекта (Трек 2).
 
+### Интро [Видео]()
+
 ### Структура курса
 * **Sprint #0 (1-2 неделя): Введение в ООП**
   * Task #0: Развертывание рабочего пространства [Видео](https://drive.google.com/file/d/1bmRf85UCMqFtBFmFwPO5en4IykpcnnGC/view?usp=sharing)   
@@ -24,10 +26,10 @@
   * Task #2: Generic классы в C# [Видео](https://drive.google.com/file/d/1dXIJC9TOK0UNz1XYplxUG-ofbu6xvGj5/view?usp=sharing)
   * Task #3: Работа над индивидуальным проектом (Трек 1) [Видео](https://drive.google.com/file/d/1dXIJC9TOK0UNz1XYplxUG-ofbu6xvGj5/view?usp=sharing)
 * **Sprint #4 (9-10 неделя): Интерфейсы и управление зависимостями**
-  * Task #0: Определение и применение интерфейса [Видео]()
-  * Task #1: Явная реализация интерфейса [Видео]()
-  * Task #2: Управление зависимостями [Видео]() 
-  * Task #3: Работа над индивидуальным проектом (Трек 1) [Видео]()
+  * Task #0: Определение и применение интерфейса [Видео](https://drive.google.com/file/d/16KvFdb63-I5w5zFtlu2Xt4D1SJpGpimv/view?usp=sharing)
+  * Task #1: Явная реализация интерфейса [Видео](https://drive.google.com/file/d/1Qfok50aZyYtxDhhh1An5oRrG6joYgjeP/view?usp=sharing)
+  * Task #2: Управление зависимостями [Видео](https://drive.google.com/file/d/18R51cuvxca7uZINfN9L5pVCCkN4WFYoX/view?usp=sharing) 
+  * Task #3: Работа над индивидуальным проектом (Трек 1) [Видео](https://drive.google.com/file/d/1zqYjTUpCSOEgOMurN48D5cV4rxI6CrJ4/view?usp=sharing)
 * **Sprint #5 (11-12 неделя): Паттерны проектирования**
   * Task #0: Порождающие паттерны (В разработке)
   * Task #1: Структурные паттерны (В разработке)
