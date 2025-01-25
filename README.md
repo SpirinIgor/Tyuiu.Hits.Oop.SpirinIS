@@ -35,13 +35,13 @@
   * Task #1: HashSet<T>
   * Task #2: Делегаты, лямда-выражения, события
   * Task #3: Работа над индивидуальным проектом (Трек 1)
-* **Sprint #6 (13-14 неделя): Работа над проектом приложения (Трек 2)**
-* **Sprint #7 (15-17 неделя): Работа над проектом приложения. Защита проекта (Трек 2)**
+* **Sprint #6 (13-14 неделя): Работа над проектом приложения (Трек 2)** [Ссылка](https://disk.yandex.ru/d/ltWB1Ow11jaKqg)
+* **Sprint #7 (15-17 неделя): Работа над проектом приложения. Защита проекта (Трек 2)** [Ссылка](https://disk.yandex.ru/d/ltWB1Ow11jaKqg)
 
 ---
 
 ## ДОПОЛНИТЕЛЬНО:
-* ССЫЛКА НА РЕПРОДУКТИВНЫЙ КУРС ООП Blazor Todo List (ТРЕК 2)  [Ссылка](https://disk.yandex.ru/d/ltWB1Ow11jaKqg)
+* ССЫЛКА НА РЕПРОДУКТИВНЫЙ КУРС ООП Blazor Todo List (ТРЕК 2) [Ссылка](https://disk.yandex.ru/d/ltWB1Ow11jaKqg)
 
 * СПИСОК ТЕМ ИТОГОВЫХ ПРОЕКТОВ [Ссылка](https://drive.google.com/file/d/1SZBGdoA9onUSquP-eHf_IVMpUz2fYnv9/view?usp=sharing)
 
