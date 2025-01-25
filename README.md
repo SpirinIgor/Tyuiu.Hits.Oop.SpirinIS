@@ -43,7 +43,7 @@
 ## ДОПОЛНИТЕЛЬНО:
 * ССЫЛКА НА РЕПРОДУКТИВНЫЙ КУРС ООП Blazor Todo List (ТРЕК 2)  [Ссылка](https://disk.yandex.ru/d/ltWB1Ow11jaKqg)
 
-* СПСИОК ТЕМ ИТОГОВЫХ ПРОЕКТОВ [Ссылка](https://drive.google.com/file/d/1SZBGdoA9onUSquP-eHf_IVMpUz2fYnv9/view?usp=sharing)
+* СПИСОК ТЕМ ИТОГОВЫХ ПРОЕКТОВ [Ссылка](https://drive.google.com/file/d/1SZBGdoA9onUSquP-eHf_IVMpUz2fYnv9/view?usp=sharing)
 
 ## Схема курса
 
