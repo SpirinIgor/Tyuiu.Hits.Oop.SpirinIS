@@ -41,11 +41,11 @@
 ---
 
 ## ДОПОЛНИТЕЛЬНО:
-* СПИСОК ТЕМ ИНДИВИДУАЛЬНЫХ ПРОЕКТОВ (ТРЕК 1) Task3 [Ссылка](https://drive.google.com/file/d/15bhuqle7Ezp1utURrhnD4_2Ew4TS5gM_/view?usp=sharing)
+* СПИСОК ТЕМ ИНДИВИДУАЛЬНЫХ ПРОЕКТОВ (ТРЕК 1) для Task3 [Ссылка](https://drive.google.com/file/d/15bhuqle7Ezp1utURrhnD4_2Ew4TS5gM_/view?usp=sharing)
   
 * ССЫЛКА НА РЕПРОДУКТИВНЫЙ КУРС ООП Blazer Todo List (ТРЕК 2) [Ссылка](https://disk.yandex.ru/d/ltWB1Ow11jaKqg)
 
-* СПИСОК ТЕМ ИНДИВИДУАЛЬНЫХ ПРОЕКТОВ (ТРЕК 3) [Ссылка](https://drive.google.com/file/d/1K_n0Vn1Pn2KJLqwk0vPRbCP70Tb8FIQc/view?usp=sharing)
+* СПИСОК ТЕМ ИТОГОВЫХ ПРОЕКТОВ ЗА КУРС (ТРЕК 3) [Ссылка](https://drive.google.com/file/d/1K_n0Vn1Pn2KJLqwk0vPRbCP70Tb8FIQc/view?usp=sharing)
 
 ## Схема курса
 
